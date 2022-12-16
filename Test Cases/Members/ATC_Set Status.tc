@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC_Set Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17b65711-2e04-4141-92de-c301cbfff1af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b595769b-0ae3-4696-aa23-5a8709be6b3a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.AdminToken</defaultValue>
+      <description></description>
+      <id>b595769b-0ae3-4696-aa23-5a8709be6b3a</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+</TestCaseEntity>

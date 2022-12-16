@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Generate new token Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bab6e804-a863-4323-bbb8-b5e2f8730075</testCaseGuid>
+</TestCaseEntity>

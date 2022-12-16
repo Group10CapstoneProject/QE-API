@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC_Update Member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38bb4b0e-30d0-458f-9131-59aaeb1aa923</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33ad69ff-945f-4456-8d37-dd404b9ed4e5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.AdminToken</defaultValue>
+      <description></description>
+      <id>33ad69ff-945f-4456-8d37-dd404b9ed4e5</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC_Get All Offline Class Bookings</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>725df7c3-15d0-4049-8848-6db3f12d6486</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95609867-428d-4a95-8935-2c9e582d0c03</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.AdminToken</defaultValue>
+      <description></description>
+      <id>95609867-428d-4a95-8935-2c9e582d0c03</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC_Get All Member Types</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ceb82ef6-624f-4859-882d-3a74adc8d690</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>132c22cb-0b73-460d-8813-117d818dcc1e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.AdminToken</defaultValue>
+      <description></description>
+      <id>132c22cb-0b73-460d-8813-117d818dcc1e</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+</TestCaseEntity>
