@@ -3,7 +3,7 @@
    <description></description>
    <name>Delete member invalid token</name>
    <tag></tag>
-   <elementGuidId>766de115-f4d3-475b-a542-3a9473c69a4a</elementGuidId>
+   <elementGuidId>d82ab3ec-a41b-4315-bd52-57ea2096b711</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

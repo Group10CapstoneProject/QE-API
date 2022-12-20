@@ -3,7 +3,7 @@
    <description></description>
    <name>Get member detail invalid url</name>
    <tag></tag>
-   <elementGuidId>c15d6dbe-25e4-4b5e-8eee-4d1c6a92a08f</elementGuidId>
+   <elementGuidId>8410b671-ca2d-4713-b90a-46664c4ecd27</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

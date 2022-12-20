@@ -3,7 +3,7 @@
    <description></description>
    <name>Create new member empty token</name>
    <tag></tag>
-   <elementGuidId>95d4f280-badb-4892-8c17-cf629fe7ea2d</elementGuidId>
+   <elementGuidId>ae09ff69-19ce-4379-9761-082586da21c2</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

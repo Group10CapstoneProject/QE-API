@@ -3,7 +3,7 @@
    <description></description>
    <name>Login User</name>
    <tag></tag>
-   <elementGuidId>06b5ae6b-c3f8-48e2-b048-6c1def576eef</elementGuidId>
+   <elementGuidId>15a838bb-13da-40cd-84f2-9d5de5a6d7e7</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

@@ -3,7 +3,7 @@
    <description></description>
    <name>Create new member empty id</name>
    <tag></tag>
-   <elementGuidId>1f7d3ea3-0dd5-4e18-a437-6a378337ee75</elementGuidId>
+   <elementGuidId>e190076a-c166-4fdf-9b0e-4b135ab49511</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

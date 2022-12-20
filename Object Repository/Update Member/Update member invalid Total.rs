@@ -3,7 +3,7 @@
    <description></description>
    <name>Update member invalid Total</name>
    <tag></tag>
-   <elementGuidId>cf069e74-4b1e-4a3f-a41c-d3363f63d012</elementGuidId>
+   <elementGuidId>bd4ba3e1-f98b-4913-b343-69c3187efd7c</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

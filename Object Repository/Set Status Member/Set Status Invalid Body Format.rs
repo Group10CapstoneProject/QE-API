@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status Invalid Body Format</name>
    <tag></tag>
-   <elementGuidId>fcb21156-d6dd-43d6-9ea5-88fb21e1f41d</elementGuidId>
+   <elementGuidId>a6268de0-056e-470b-a98c-73737131e602</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
@@ -35,7 +35,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>${variable}/members/set-status/${ID}</restUrl>
+   <restUrl>${variable}/members/setStatus/${ID}</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

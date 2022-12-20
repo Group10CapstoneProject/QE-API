@@ -3,7 +3,7 @@
    <description></description>
    <name>Get All User with super admin token</name>
    <tag></tag>
-   <elementGuidId>51d98c49-920e-4636-ba0d-da70000e39a1</elementGuidId>
+   <elementGuidId>b676c873-4200-47cc-998e-e97222360196</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

@@ -4,17 +4,17 @@
    <name>ATC_Delete Offline Class Booking</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d807e433-1627-4c01-8f48-5097ad790d48</testCaseGuid>
+   <testCaseGuid>22814ccb-a027-4309-a48d-a4717d163798</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>975ca774-601a-441d-90e7-37d77c40f647</variableId>
+      <variableId>3f758811-42d9-4964-a149-6e382a3ace62</variableId>
    </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.AdminToken</defaultValue>
       <description></description>
-      <id>975ca774-601a-441d-90e7-37d77c40f647</id>
+      <id>3f758811-42d9-4964-a149-6e382a3ace62</id>
       <masked>false</masked>
       <name>Admin</name>
    </variable>

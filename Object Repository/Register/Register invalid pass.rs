@@ -3,7 +3,7 @@
    <description></description>
    <name>Register invalid pass</name>
    <tag></tag>
-   <elementGuidId>fb5beab8-08e1-4d7d-9144-109b0fde7c64</elementGuidId>
+   <elementGuidId>dc7b6bb7-7c66-4ef0-8002-562113a07d55</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

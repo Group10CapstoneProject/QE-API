@@ -3,7 +3,7 @@
    <description></description>
    <name>Get member detail without ID</name>
    <tag></tag>
-   <elementGuidId>be866428-659c-4e8a-abac-a0b3a0d5f26e</elementGuidId>
+   <elementGuidId>ea367ecb-885c-4d21-84e1-4133bb3169ab</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

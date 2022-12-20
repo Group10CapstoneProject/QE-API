@@ -3,7 +3,7 @@
    <description></description>
    <name>Login SA empty pass</name>
    <tag></tag>
-   <elementGuidId>3a82a7ed-8e7f-4986-9649-256b670587d8</elementGuidId>
+   <elementGuidId>92bd95a0-f1ba-403a-be65-f670e0ee2dd0</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

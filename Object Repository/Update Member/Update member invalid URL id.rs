@@ -3,7 +3,7 @@
    <description></description>
    <name>Update member invalid URL id</name>
    <tag></tag>
-   <elementGuidId>4bc44914-b804-432c-b1e1-64bfd07c4612</elementGuidId>
+   <elementGuidId>bee46ceb-707e-47fd-9bf7-b7729f55f699</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

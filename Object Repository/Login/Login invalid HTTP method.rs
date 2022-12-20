@@ -3,7 +3,7 @@
    <description></description>
    <name>Login invalid HTTP method</name>
    <tag></tag>
-   <elementGuidId>214ee377-fb22-4b1e-b168-6afcd82de472</elementGuidId>
+   <elementGuidId>0be5e7b7-37e9-4a93-a341-3783d009be7e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

@@ -4,17 +4,17 @@
    <name>ATC_Get Member History</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>1cc88c66-d529-4100-a584-363160191f62</testCaseGuid>
+   <testCaseGuid>8a6b7ec6-a27a-479a-959e-c2adf8b5b7e4</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>f5c0685c-69cb-4703-aede-fc8530c8e660</variableId>
+      <variableId>2e985e94-1751-4048-8667-cdf8af40d98a</variableId>
    </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.AdminToken</defaultValue>
       <description></description>
-      <id>f5c0685c-69cb-4703-aede-fc8530c8e660</id>
+      <id>2e985e94-1751-4048-8667-cdf8af40d98a</id>
       <masked>false</masked>
       <name>Admin</name>
    </variable>

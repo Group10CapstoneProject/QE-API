@@ -3,7 +3,7 @@
    <description></description>
    <name>Register invalid email</name>
    <tag></tag>
-   <elementGuidId>01239278-2578-4e43-86fb-3a5cf9efd6bc</elementGuidId>
+   <elementGuidId>d2b2ddfc-b5ca-4bc9-a098-abaff181205c</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

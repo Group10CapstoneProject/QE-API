@@ -3,7 +3,7 @@
    <description></description>
    <name>Testing</name>
    <tag></tag>
-   <elementGuidId>aa37cdc8-f8b3-4bff-9697-2466895aa13c</elementGuidId>
+   <elementGuidId>51d5a833-286d-4478-acdd-9ba41217ed4d</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

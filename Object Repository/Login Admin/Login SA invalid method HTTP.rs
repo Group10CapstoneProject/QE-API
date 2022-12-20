@@ -3,7 +3,7 @@
    <description></description>
    <name>Login SA invalid method HTTP</name>
    <tag></tag>
-   <elementGuidId>2d9b98d5-77f2-4e1c-b245-22f98a88858e</elementGuidId>
+   <elementGuidId>0c2efda0-91d2-4f65-9125-f04a3b1e739a</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

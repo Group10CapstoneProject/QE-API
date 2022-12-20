@@ -3,7 +3,7 @@
    <description></description>
    <name>Generate invalid HTTP method</name>
    <tag></tag>
-   <elementGuidId>a1cda1f7-8c8c-49d1-a38a-6ae62a9bb9d1</elementGuidId>
+   <elementGuidId>9b8a000b-ca18-4eed-a403-9a24ff9768b0</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

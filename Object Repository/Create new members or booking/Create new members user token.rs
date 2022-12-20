@@ -3,7 +3,7 @@
    <description></description>
    <name>Create new members user token</name>
    <tag></tag>
-   <elementGuidId>3997ac1e-8310-412c-bcd5-2f2f8bc13097</elementGuidId>
+   <elementGuidId>d2fde928-bc86-40df-99d9-65badf992094</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

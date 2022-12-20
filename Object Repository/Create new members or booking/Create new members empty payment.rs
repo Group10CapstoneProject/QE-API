@@ -3,7 +3,7 @@
    <description></description>
    <name>Create new members empty payment</name>
    <tag></tag>
-   <elementGuidId>a4918b44-0fc0-44c5-b5da-468e11a6d0be</elementGuidId>
+   <elementGuidId>2f0189f9-a6c8-47d3-bd0e-966ea7b7c57d</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

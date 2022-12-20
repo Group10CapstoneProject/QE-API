@@ -4,17 +4,17 @@
    <name>ATC_Get All Member Types</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ceb82ef6-624f-4859-882d-3a74adc8d690</testCaseGuid>
+   <testCaseGuid>931e81d2-448f-4c2e-bc34-6f94eec6ee8a</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>132c22cb-0b73-460d-8813-117d818dcc1e</variableId>
+      <variableId>ee4e8fd9-7db6-48fa-af06-7ce7a867d037</variableId>
    </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.AdminToken</defaultValue>
       <description></description>
-      <id>132c22cb-0b73-460d-8813-117d818dcc1e</id>
+      <id>ee4e8fd9-7db6-48fa-af06-7ce7a867d037</id>
       <masked>false</masked>
       <name>Admin</name>
    </variable>

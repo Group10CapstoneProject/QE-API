@@ -3,7 +3,7 @@
    <description></description>
    <name>Create admin without pass</name>
    <tag></tag>
-   <elementGuidId>400fc37f-091d-4713-bde1-2f37110311a4</elementGuidId>
+   <elementGuidId>86b0c1ed-15b0-4817-95d7-7551d812350a</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

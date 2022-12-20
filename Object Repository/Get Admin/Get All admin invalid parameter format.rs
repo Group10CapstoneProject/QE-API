@@ -3,7 +3,7 @@
    <description></description>
    <name>Get All admin invalid parameter format</name>
    <tag></tag>
-   <elementGuidId>87564ab9-edfc-4afe-9b67-50ce2a01fccb</elementGuidId>
+   <elementGuidId>7c6ade61-a434-420c-9aff-9da950ca9496</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

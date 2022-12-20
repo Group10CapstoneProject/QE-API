@@ -3,7 +3,7 @@
    <description></description>
    <name>Get member detail invalid HTTP method</name>
    <tag></tag>
-   <elementGuidId>686f4872-4f18-48be-a778-a95b14cdd2df</elementGuidId>
+   <elementGuidId>73c1718e-72df-41fb-baa0-38ef14c79f75</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

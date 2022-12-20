@@ -3,7 +3,7 @@
    <description></description>
    <name>Logout superadmin</name>
    <tag></tag>
-   <elementGuidId>c931dc94-53ca-4acc-8047-385b9bbfe3fb</elementGuidId>
+   <elementGuidId>bd43d9a4-644a-459c-a8a0-1a5f78188d36</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

@@ -3,7 +3,7 @@
    <description></description>
    <name>Generate invalid format data</name>
    <tag></tag>
-   <elementGuidId>9edf6836-a141-407b-af3a-32c23cb59060</elementGuidId>
+   <elementGuidId>8883d3ed-d825-4c32-b777-2743a26ef23d</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

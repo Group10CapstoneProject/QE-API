@@ -3,7 +3,7 @@
    <description></description>
    <name>Login SA invalid email (5 space)</name>
    <tag></tag>
-   <elementGuidId>29a36ae3-d439-405f-89af-a95b66eb6d4d</elementGuidId>
+   <elementGuidId>9af44c53-64ab-4902-a535-d923e54bf897</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

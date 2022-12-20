@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status Invalid Token</name>
    <tag></tag>
-   <elementGuidId>316ff2d1-3521-4f51-ae5a-e12f3047558e</elementGuidId>
+   <elementGuidId>cc600412-2bec-4cdd-9075-fe180855a719</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
@@ -35,7 +35,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>${variable}/members/set-status/${ID}</restUrl>
+   <restUrl>${variable}/members/setStatus/${ID}</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

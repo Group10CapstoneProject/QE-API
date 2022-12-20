@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status Minus ID</name>
    <tag></tag>
-   <elementGuidId>7a5a3a28-39ee-4c9a-aeb3-af01c00a7172</elementGuidId>
+   <elementGuidId>bb668660-6088-4738-97d5-98886505fbd0</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
@@ -35,7 +35,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>${variable}/members/set-status/-1</restUrl>
+   <restUrl>${variable}/members/setStatus/-1</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

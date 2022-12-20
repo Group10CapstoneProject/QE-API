@@ -3,7 +3,7 @@
    <description></description>
    <name>Create admin without email</name>
    <tag></tag>
-   <elementGuidId>5eef83f3-d30b-445f-aaaf-1590197bb83a</elementGuidId>
+   <elementGuidId>b00240ea-a89b-475f-b703-8374c4ac2c4e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

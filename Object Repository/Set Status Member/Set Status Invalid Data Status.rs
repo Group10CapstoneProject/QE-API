@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status Invalid Data Status</name>
    <tag></tag>
-   <elementGuidId>57975137-6743-428a-afa4-cf0155f57c9c</elementGuidId>
+   <elementGuidId>15e0aced-e309-4eab-8cc3-b73cb60fb556</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
@@ -35,7 +35,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>${variable}/members/set-status/${ID}</restUrl>
+   <restUrl>${variable}/members/setStatus/${ID}</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

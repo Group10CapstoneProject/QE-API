@@ -3,7 +3,7 @@
    <description></description>
    <name>Delete member invalid URL</name>
    <tag></tag>
-   <elementGuidId>b19d0487-b548-444d-97b0-3fa46b77e835</elementGuidId>
+   <elementGuidId>a5b441af-310e-4440-9bcc-e681ef8e18c0</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

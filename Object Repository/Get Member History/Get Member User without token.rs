@@ -3,7 +3,7 @@
    <description></description>
    <name>Get Member User without token</name>
    <tag></tag>
-   <elementGuidId>c9b2b487-3d25-4d09-8ce7-22947e471639</elementGuidId>
+   <elementGuidId>262be16c-2403-407e-9340-560f061ed8a7</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

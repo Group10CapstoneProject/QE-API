@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status User Token</name>
    <tag></tag>
-   <elementGuidId>56c5ccd3-3610-491f-b619-9b52c1716d71</elementGuidId>
+   <elementGuidId>4734895c-493a-479b-ae0c-245f35e234bd</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

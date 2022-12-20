@@ -4,17 +4,17 @@
    <name>ATC_Set Status Member</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>43aee6a1-fc30-4781-ad85-ab691f6bb45c</testCaseGuid>
+   <testCaseGuid>ae933037-131e-4917-9b6e-9a1be532edb2</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e1ff3c83-2489-4f5c-9672-0db70a935262</variableId>
+      <variableId>860bf904-3841-4655-8d1f-e300624ab9c7</variableId>
    </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.AdminToken</defaultValue>
       <description></description>
-      <id>e1ff3c83-2489-4f5c-9672-0db70a935262</id>
+      <id>860bf904-3841-4655-8d1f-e300624ab9c7</id>
       <masked>false</masked>
       <name>Admin</name>
    </variable>

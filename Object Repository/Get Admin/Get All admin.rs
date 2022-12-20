@@ -3,7 +3,7 @@
    <description></description>
    <name>Get All admin</name>
    <tag></tag>
-   <elementGuidId>146eaaaf-aaef-4e7f-bce9-1b9a95201979</elementGuidId>
+   <elementGuidId>838e0d6b-a205-42a7-a549-2202430a2d66</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

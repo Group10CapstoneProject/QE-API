@@ -3,7 +3,7 @@
    <description></description>
    <name>Create admin invalid name</name>
    <tag></tag>
-   <elementGuidId>9ea99e6c-2d3c-444a-b396-4d2c5f9f73f2</elementGuidId>
+   <elementGuidId>43341f64-a1b7-464b-a668-d98b4336d1ce</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

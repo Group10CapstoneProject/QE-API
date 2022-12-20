@@ -3,7 +3,7 @@
    <description></description>
    <name>Create admin invalid pass</name>
    <tag></tag>
-   <elementGuidId>0613bddf-9022-431e-af1f-df474f5df6b2</elementGuidId>
+   <elementGuidId>c451dc96-933a-43ce-91d9-e856d431ea34</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

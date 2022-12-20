@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status Invalid HTTP</name>
    <tag></tag>
-   <elementGuidId>c8687520-9ef4-4ef9-b36f-e6390619e917</elementGuidId>
+   <elementGuidId>dca3ae77-617a-4dd9-9ec5-3e57341e56f8</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
@@ -35,7 +35,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>PUT</restRequestMethod>
-   <restUrl>${variable}/members/set-status/${ID}</restUrl>
+   <restUrl>${variable}/members/setStatus/1</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

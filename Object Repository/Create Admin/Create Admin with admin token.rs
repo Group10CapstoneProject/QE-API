@@ -3,7 +3,7 @@
    <description></description>
    <name>Create Admin with admin token</name>
    <tag></tag>
-   <elementGuidId>316d2b08-6883-4c54-abcd-51f7e4af4ec1</elementGuidId>
+   <elementGuidId>dd7d8359-abff-4e7e-bad0-9cbe319f64ce</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

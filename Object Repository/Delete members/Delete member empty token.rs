@@ -3,7 +3,7 @@
    <description></description>
    <name>Delete member empty token</name>
    <tag></tag>
-   <elementGuidId>513bb498-ab70-4efd-aca0-dd462dcbb27d</elementGuidId>
+   <elementGuidId>b6d7d47b-358e-41af-a0f4-00d58556f426</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

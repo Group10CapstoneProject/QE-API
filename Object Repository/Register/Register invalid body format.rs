@@ -3,7 +3,7 @@
    <description></description>
    <name>Register invalid body format</name>
    <tag></tag>
-   <elementGuidId>d8c61c73-3a8d-456f-bbde-e8cc926907b2</elementGuidId>
+   <elementGuidId>8e68ec56-bd23-4808-861d-9e09fd724695</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

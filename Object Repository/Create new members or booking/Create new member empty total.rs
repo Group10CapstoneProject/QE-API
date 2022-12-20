@@ -3,7 +3,7 @@
    <description></description>
    <name>Create new member empty total</name>
    <tag></tag>
-   <elementGuidId>f90eb477-8284-4550-b859-2f30742cbaa7</elementGuidId>
+   <elementGuidId>de43cb8b-b47b-4bfe-8bef-1894d23ac8a8</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

@@ -3,7 +3,7 @@
    <description></description>
    <name>Create new member empty duration</name>
    <tag></tag>
-   <elementGuidId>a34b3e2b-a4ef-4fec-b6d4-9ed17272b0a8</elementGuidId>
+   <elementGuidId>c3b71c7f-dd66-4f7b-985a-8c2b7d6bc919</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

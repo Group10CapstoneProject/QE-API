@@ -3,7 +3,7 @@
    <description></description>
    <name>Get all admin invalid method</name>
    <tag></tag>
-   <elementGuidId>732dead5-be54-45f3-960e-b39cc1c556cf</elementGuidId>
+   <elementGuidId>d75b7973-9393-4edd-9046-4dc3f98ae7c5</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

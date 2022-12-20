@@ -3,7 +3,7 @@
    <description></description>
    <name>Logout invalid HTTP method</name>
    <tag></tag>
-   <elementGuidId>084222a8-919a-422c-94ca-00835c9937a8</elementGuidId>
+   <elementGuidId>b7823860-295d-46dc-8666-66307d8d12d7</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

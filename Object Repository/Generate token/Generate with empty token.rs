@@ -3,7 +3,7 @@
    <description></description>
    <name>Generate with empty token</name>
    <tag></tag>
-   <elementGuidId>c12e6171-0cb5-4992-b998-51b2e618761d</elementGuidId>
+   <elementGuidId>6709babc-8a9e-41fa-b1b3-4ef493d00e49</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

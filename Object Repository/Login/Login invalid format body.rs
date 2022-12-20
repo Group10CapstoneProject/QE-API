@@ -3,7 +3,7 @@
    <description></description>
    <name>Login invalid format body</name>
    <tag></tag>
-   <elementGuidId>9d8244b6-4859-4527-90f6-b70706b867f4</elementGuidId>
+   <elementGuidId>2e79923d-55d8-4382-83e7-66a7205a2698</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

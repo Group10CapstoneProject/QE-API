@@ -3,7 +3,7 @@
    <description></description>
    <name>Login empty email</name>
    <tag></tag>
-   <elementGuidId>a7831704-680d-4921-b49a-79c3a0315128</elementGuidId>
+   <elementGuidId>ff4212d0-a5ee-4781-880a-f28044811ecc</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

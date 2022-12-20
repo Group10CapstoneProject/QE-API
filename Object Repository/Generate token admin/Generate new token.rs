@@ -3,7 +3,7 @@
    <description></description>
    <name>Generate new token</name>
    <tag></tag>
-   <elementGuidId>1cc700cb-0997-4bc5-97a4-f8ec366bc3c7</elementGuidId>
+   <elementGuidId>3a1dd47e-828d-4eb5-9fc4-2a5f41fabf61</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

@@ -3,7 +3,7 @@
    <description></description>
    <name>Register invalid name</name>
    <tag></tag>
-   <elementGuidId>2f04bd44-4ee3-425b-8652-ea3d78eb5925</elementGuidId>
+   <elementGuidId>9f1e6511-8a08-4d5a-bec0-f74f802e9535</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

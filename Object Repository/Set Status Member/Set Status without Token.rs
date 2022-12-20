@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status without Token</name>
    <tag></tag>
-   <elementGuidId>5793a265-7395-48a6-8e57-325f6f1ba28e</elementGuidId>
+   <elementGuidId>e7b049d1-f711-4ec3-81e5-011db312afe3</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
@@ -27,7 +27,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>${variable}/members/set-status/${ID}</restUrl>
+   <restUrl>${variable}/members/setStatus/${ID}</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

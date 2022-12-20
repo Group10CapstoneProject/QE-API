@@ -3,7 +3,7 @@
    <description></description>
    <name>Register without email</name>
    <tag></tag>
-   <elementGuidId>20971e55-a277-4867-93ea-4ff72732a2df</elementGuidId>
+   <elementGuidId>4b6892ac-e881-4ca6-a643-136405a42fc3</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

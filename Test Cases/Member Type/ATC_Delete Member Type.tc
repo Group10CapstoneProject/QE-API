@@ -4,17 +4,17 @@
    <name>ATC_Delete Member Type</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>5657b982-3460-4841-8ecd-11eae2f13f8b</testCaseGuid>
+   <testCaseGuid>1d40a601-64af-4bab-802d-00bc28f62271</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>281f354e-320d-4d71-9b68-80854c44d9a6</variableId>
+      <variableId>452a3752-00e5-43d6-9c9c-6fa36594f71e</variableId>
    </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.AdminToken</defaultValue>
       <description></description>
-      <id>281f354e-320d-4d71-9b68-80854c44d9a6</id>
+      <id>452a3752-00e5-43d6-9c9c-6fa36594f71e</id>
       <masked>false</masked>
       <name>Admin</name>
    </variable>

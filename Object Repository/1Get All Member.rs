@@ -3,7 +3,7 @@
    <description></description>
    <name>1Get All Member</name>
    <tag></tag>
-   <elementGuidId>f66d63ae-30cc-42ff-88aa-af0d7ac1fee6</elementGuidId>
+   <elementGuidId>8c8395ef-5e24-4e69-87a6-a7e4fe4a8bd1</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
@@ -16,14 +16,14 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer ${GlobalVariable.UserToken}</value>
+      <value>Bearer ${GlobalVariable.SuperAdminToken}</value>
       <webElementGuid>2e11093c-c108-4c1e-b866-aeed1ea1b0f3</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.3.0</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>${variable}/members</restUrl>
+   <restUrl>${variable}/members?page=1&amp;limit=100</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

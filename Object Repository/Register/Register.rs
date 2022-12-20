@@ -3,7 +3,7 @@
    <description></description>
    <name>Register</name>
    <tag></tag>
-   <elementGuidId>5dc9fe17-4486-459f-aabf-45d34e148845</elementGuidId>
+   <elementGuidId>1243cd66-8cf1-4d6c-9630-639820e03534</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
