@@ -3,7 +3,7 @@
    <description></description>
    <name>Get member invalid parameter value</name>
    <tag></tag>
-   <elementGuidId>af8a6d05-a738-4f8d-836a-84f341c15f72</elementGuidId>
+   <elementGuidId>0206aa46-4282-4179-8720-77c585dfc59e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

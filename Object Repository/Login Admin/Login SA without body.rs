@@ -3,7 +3,7 @@
    <description></description>
    <name>Login SA without body</name>
    <tag></tag>
-   <elementGuidId>c2d1f7cb-776c-468a-97fc-bbdf00715b9e</elementGuidId>
+   <elementGuidId>940579fd-5ab1-42c1-a940-faa92d7b9b45</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

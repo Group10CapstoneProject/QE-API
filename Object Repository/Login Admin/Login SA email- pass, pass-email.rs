@@ -3,7 +3,7 @@
    <description></description>
    <name>Login SA email- pass, pass-email</name>
    <tag></tag>
-   <elementGuidId>3ff92de1-8738-48f1-b31b-530d00a73a46</elementGuidId>
+   <elementGuidId>0d6336ac-ffdb-42de-86f4-bf8eafed420c</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

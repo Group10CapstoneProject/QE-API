@@ -3,7 +3,7 @@
    <description></description>
    <name>Login email-pass, pass-email</name>
    <tag></tag>
-   <elementGuidId>08313631-ea59-434a-a435-7866e561e9cb</elementGuidId>
+   <elementGuidId>a4bf64ec-61d6-452d-b892-0a015a7ecf94</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

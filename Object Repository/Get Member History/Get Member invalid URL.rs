@@ -3,7 +3,7 @@
    <description></description>
    <name>Get Member invalid URL</name>
    <tag></tag>
-   <elementGuidId>2506e0aa-5d7a-4416-a12f-149493249a3f</elementGuidId>
+   <elementGuidId>c811495f-2e8f-445c-aec0-5220e4d08727</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

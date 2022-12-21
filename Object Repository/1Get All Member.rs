@@ -3,7 +3,7 @@
    <description></description>
    <name>1Get All Member</name>
    <tag></tag>
-   <elementGuidId>8c8395ef-5e24-4e69-87a6-a7e4fe4a8bd1</elementGuidId>
+   <elementGuidId>f66d63ae-30cc-42ff-88aa-af0d7ac1fee6</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

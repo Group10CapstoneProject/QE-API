@@ -3,7 +3,7 @@
    <description></description>
    <name>Update member invalid member_type</name>
    <tag></tag>
-   <elementGuidId>6cf4ea8a-1d6c-484e-b3bd-ded1b5f57007</elementGuidId>
+   <elementGuidId>9ea99e6c-2d3c-444a-b396-4d2c5f9f73f2</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

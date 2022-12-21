@@ -3,7 +3,7 @@
    <description></description>
    <name>Delete member user token</name>
    <tag></tag>
-   <elementGuidId>b513102f-60f4-4ba7-8dac-7fcb2bf9042c</elementGuidId>
+   <elementGuidId>5f86bac6-3956-412f-823c-752b478bc0aa</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

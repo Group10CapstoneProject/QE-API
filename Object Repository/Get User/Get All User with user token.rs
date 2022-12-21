@@ -3,7 +3,7 @@
    <description></description>
    <name>Get All User with user token</name>
    <tag></tag>
-   <elementGuidId>c8e668eb-7bb0-42ef-a80e-111a72e8130a</elementGuidId>
+   <elementGuidId>cdf7173a-cd4c-40b1-914c-a78821455811</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

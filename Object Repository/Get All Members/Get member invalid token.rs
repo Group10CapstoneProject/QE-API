@@ -3,7 +3,7 @@
    <description></description>
    <name>Get member invalid token</name>
    <tag></tag>
-   <elementGuidId>7c569223-1f37-44cf-9dd8-ac03e17b166c</elementGuidId>
+   <elementGuidId>965f81cf-4692-488d-9cba-bc752f21fb8a</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

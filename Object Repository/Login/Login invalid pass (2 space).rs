@@ -3,7 +3,7 @@
    <description></description>
    <name>Login invalid pass (2 space)</name>
    <tag></tag>
-   <elementGuidId>47f97f02-64a3-4390-b6ef-17c0bb16bfcf</elementGuidId>
+   <elementGuidId>0d65e9f8-3beb-4af6-9be1-619f7cb77a11</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

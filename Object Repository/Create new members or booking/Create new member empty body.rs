@@ -3,7 +3,7 @@
    <description></description>
    <name>Create new member empty body</name>
    <tag></tag>
-   <elementGuidId>6318c8e1-ecd8-4dac-82e5-6abe45066daf</elementGuidId>
+   <elementGuidId>1a35e89d-d110-4bad-baf9-c24cb5bd4727</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

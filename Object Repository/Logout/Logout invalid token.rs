@@ -3,7 +3,7 @@
    <description></description>
    <name>Logout invalid token</name>
    <tag></tag>
-   <elementGuidId>c17f72fa-08ad-4021-9d91-ac25d35163d8</elementGuidId>
+   <elementGuidId>ab584c52-18cf-4e1f-84f8-faed7f1899e6</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

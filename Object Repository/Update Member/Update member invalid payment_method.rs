@@ -3,7 +3,7 @@
    <description></description>
    <name>Update member invalid payment_method</name>
    <tag></tag>
-   <elementGuidId>a64e9012-a3de-4b41-8aac-f11d28c1e8cb</elementGuidId>
+   <elementGuidId>0613bddf-9022-431e-af1f-df474f5df6b2</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

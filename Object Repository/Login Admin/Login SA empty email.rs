@@ -3,7 +3,7 @@
    <description></description>
    <name>Login SA empty email</name>
    <tag></tag>
-   <elementGuidId>55c41bac-c722-4501-b125-e58397f095cd</elementGuidId>
+   <elementGuidId>5dba1075-e80d-408a-bce3-590338eddef0</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

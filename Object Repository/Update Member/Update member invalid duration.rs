@@ -3,7 +3,7 @@
    <description></description>
    <name>Update member invalid duration</name>
    <tag></tag>
-   <elementGuidId>c6065044-a6fe-42c5-95f9-73fdfa1f5190</elementGuidId>
+   <elementGuidId>278f5a42-4b17-482e-b288-dce8aeec1d99</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

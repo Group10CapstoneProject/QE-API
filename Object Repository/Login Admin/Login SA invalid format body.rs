@@ -3,7 +3,7 @@
    <description></description>
    <name>Login SA invalid format body</name>
    <tag></tag>
-   <elementGuidId>5e4e7cf1-36ba-44d3-bea9-aa3e12e3bc67</elementGuidId>
+   <elementGuidId>adf5cd54-f8e0-43ac-933b-f19853e0d1a0</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

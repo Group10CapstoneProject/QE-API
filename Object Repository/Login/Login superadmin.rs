@@ -3,7 +3,7 @@
    <description></description>
    <name>Login superadmin</name>
    <tag></tag>
-   <elementGuidId>b1fa6564-2699-488f-8f20-955b462e322f</elementGuidId>
+   <elementGuidId>faa25de5-630b-4881-96c4-30a94f247465</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

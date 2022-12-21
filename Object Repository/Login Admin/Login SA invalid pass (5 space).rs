@@ -3,7 +3,7 @@
    <description></description>
    <name>Login SA invalid pass (5 space)</name>
    <tag></tag>
-   <elementGuidId>192d74e5-f510-4e64-a970-6b67e92bd966</elementGuidId>
+   <elementGuidId>e1d3f374-ab0b-484f-9ecb-eee4c1edf505</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

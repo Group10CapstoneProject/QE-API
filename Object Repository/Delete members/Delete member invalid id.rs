@@ -3,7 +3,7 @@
    <description></description>
    <name>Delete member invalid id</name>
    <tag></tag>
-   <elementGuidId>f0e4be90-fe6d-4cce-b53d-20a3cd2a2b97</elementGuidId>
+   <elementGuidId>7334a841-66a3-4347-abdc-1312e5c65fe1</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

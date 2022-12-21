@@ -4,17 +4,17 @@
    <name>ATC_Get All Payment Method</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>341e0a15-d7d6-417d-8edc-ec6061c60005</testCaseGuid>
+   <testCaseGuid>48f6c51a-e553-48f1-8474-b0eee352b110</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>eb8208d8-7a39-4bf9-831b-2f0ac161008f</variableId>
+      <variableId>21f06c6f-355c-4f20-ad18-89066899d413</variableId>
    </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.AdminToken</defaultValue>
       <description></description>
-      <id>eb8208d8-7a39-4bf9-831b-2f0ac161008f</id>
+      <id>21f06c6f-355c-4f20-ad18-89066899d413</id>
       <masked>false</masked>
       <name>Admin</name>
    </variable>

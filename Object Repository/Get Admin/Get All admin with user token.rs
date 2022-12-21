@@ -3,7 +3,7 @@
    <description></description>
    <name>Get All admin with user token</name>
    <tag></tag>
-   <elementGuidId>14f9b6e3-eb18-480f-a156-a38b002d6c86</elementGuidId>
+   <elementGuidId>311ee65e-5f2a-4822-a39e-c398f7309a49</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

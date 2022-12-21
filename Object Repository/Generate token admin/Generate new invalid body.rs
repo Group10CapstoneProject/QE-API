@@ -3,7 +3,7 @@
    <description></description>
    <name>Generate new invalid body</name>
    <tag></tag>
-   <elementGuidId>f0686bdf-3178-430b-99d7-634a658dbaab</elementGuidId>
+   <elementGuidId>3985e9b4-1745-48fd-9ca3-45a21924771e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

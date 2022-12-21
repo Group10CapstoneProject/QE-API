@@ -3,7 +3,7 @@
    <description></description>
    <name>Login empty email, empty pass</name>
    <tag></tag>
-   <elementGuidId>cfc4ae1b-ce58-46a0-bd54-9a1817e5f02d</elementGuidId>
+   <elementGuidId>93676209-b972-4fc3-b80c-f48f89a03ffc</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

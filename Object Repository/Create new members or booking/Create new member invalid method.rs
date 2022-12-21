@@ -3,7 +3,7 @@
    <description></description>
    <name>Create new member invalid method</name>
    <tag></tag>
-   <elementGuidId>f3fbc243-1c93-4553-a7f4-a6958125992f</elementGuidId>
+   <elementGuidId>9cc32e9c-6137-4a0c-b205-9babac07498f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

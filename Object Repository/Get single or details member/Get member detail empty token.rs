@@ -3,7 +3,7 @@
    <description></description>
    <name>Get member detail empty token</name>
    <tag></tag>
-   <elementGuidId>ace489b4-6518-4c69-a4e3-6baf7306bb0f</elementGuidId>
+   <elementGuidId>e5c76f43-3518-4b7b-847c-beb5dce2a939</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

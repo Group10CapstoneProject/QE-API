@@ -3,7 +3,7 @@
    <description></description>
    <name>Register without name</name>
    <tag></tag>
-   <elementGuidId>5dba7aed-9e4f-4a0c-9e51-ba8a063832be</elementGuidId>
+   <elementGuidId>8a09ea32-7244-4ee7-b3a7-0d0c162d30a5</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

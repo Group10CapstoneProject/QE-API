@@ -3,7 +3,7 @@
    <description></description>
    <name>Delete member invalid HTTP method</name>
    <tag></tag>
-   <elementGuidId>453784d4-251c-4f2c-b461-773250effc99</elementGuidId>
+   <elementGuidId>9cb134cd-b7f8-4495-ad0b-cf51ba2070bd</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

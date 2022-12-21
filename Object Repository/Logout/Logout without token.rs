@@ -3,7 +3,7 @@
    <description></description>
    <name>Logout without token</name>
    <tag></tag>
-   <elementGuidId>39502358-a444-4c1f-bf98-b3c7af429154</elementGuidId>
+   <elementGuidId>235496e3-2c4a-47eb-ab21-a54155468483</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

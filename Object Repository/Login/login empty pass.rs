@@ -3,7 +3,7 @@
    <description></description>
    <name>login empty pass</name>
    <tag></tag>
-   <elementGuidId>72cffa28-9a7f-4021-a5dd-c472b9aee82c</elementGuidId>
+   <elementGuidId>86b4d380-2032-435c-b67c-50a3c5003fcb</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

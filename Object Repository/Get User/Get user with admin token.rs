@@ -3,7 +3,7 @@
    <description></description>
    <name>Get user with admin token</name>
    <tag></tag>
-   <elementGuidId>faed16c2-575d-4f45-b85d-3af5451cd340</elementGuidId>
+   <elementGuidId>85e2e548-85a7-4ac5-84cf-62ec17667ae1</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

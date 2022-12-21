@@ -3,7 +3,7 @@
    <description></description>
    <name>Get user invalid HTTP method</name>
    <tag></tag>
-   <elementGuidId>1fba2c20-0fd9-432b-a8fa-04d477dfe685</elementGuidId>
+   <elementGuidId>266ef323-71b7-4a5b-bc9e-41d88bb8b978</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

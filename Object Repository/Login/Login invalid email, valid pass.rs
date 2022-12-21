@@ -3,7 +3,7 @@
    <description></description>
    <name>Login invalid email, valid pass</name>
    <tag></tag>
-   <elementGuidId>8067c39f-3c19-4276-a510-60df94739186</elementGuidId>
+   <elementGuidId>c44996c7-5215-4f79-9da0-7e8c5d19d657</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

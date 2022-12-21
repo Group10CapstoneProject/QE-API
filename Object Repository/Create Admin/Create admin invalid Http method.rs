@@ -3,7 +3,7 @@
    <description></description>
    <name>Create admin invalid Http method</name>
    <tag></tag>
-   <elementGuidId>50491c28-0082-47db-8694-19628cb9f794</elementGuidId>
+   <elementGuidId>2b726798-0f16-4f9b-bf87-4a1472bf3675</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

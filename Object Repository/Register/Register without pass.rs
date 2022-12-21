@@ -3,7 +3,7 @@
    <description></description>
    <name>Register without pass</name>
    <tag></tag>
-   <elementGuidId>a70a4d73-ca63-4dae-8a03-8a8a111700cc</elementGuidId>
+   <elementGuidId>24dec368-6c7a-44c0-8685-f24a483e557f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

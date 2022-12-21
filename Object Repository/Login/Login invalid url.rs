@@ -3,7 +3,7 @@
    <description></description>
    <name>Login invalid url</name>
    <tag></tag>
-   <elementGuidId>ec9c8b86-c2f0-4ed7-850b-0a120048d3c0</elementGuidId>
+   <elementGuidId>77ef042d-62b6-42a5-87e9-15214738c3f1</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

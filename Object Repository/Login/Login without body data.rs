@@ -3,7 +3,7 @@
    <description></description>
    <name>Login without body data</name>
    <tag></tag>
-   <elementGuidId>d8423518-e500-4e20-a93f-a559963e2137</elementGuidId>
+   <elementGuidId>84e4e700-c78d-4c70-bb43-b2e1461757a1</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

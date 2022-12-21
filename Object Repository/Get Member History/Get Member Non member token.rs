@@ -3,7 +3,7 @@
    <description></description>
    <name>Get Member Non member token</name>
    <tag></tag>
-   <elementGuidId>25a36183-df7b-459c-b2d5-2e371bea9717</elementGuidId>
+   <elementGuidId>fbcd5cce-169d-48b9-81c1-7535f6e9d7de</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

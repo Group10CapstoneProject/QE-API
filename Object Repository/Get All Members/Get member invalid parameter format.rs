@@ -3,7 +3,7 @@
    <description></description>
    <name>Get member invalid parameter format</name>
    <tag></tag>
-   <elementGuidId>064f9df5-fde5-4686-82e5-0b81622a356a</elementGuidId>
+   <elementGuidId>3ea9856c-8d0b-4a66-b23f-e120eafcea46</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

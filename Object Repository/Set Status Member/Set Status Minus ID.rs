@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status Minus ID</name>
    <tag></tag>
-   <elementGuidId>bb668660-6088-4738-97d5-98886505fbd0</elementGuidId>
+   <elementGuidId>7a5a3a28-39ee-4c9a-aeb3-af01c00a7172</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

@@ -3,7 +3,7 @@
    <description></description>
    <name>Generate invalid url</name>
    <tag></tag>
-   <elementGuidId>786777ce-9bd3-48b7-8071-8f980e7f670d</elementGuidId>
+   <elementGuidId>a3ca14be-ccdb-4193-a56d-fbe0c9f72549</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

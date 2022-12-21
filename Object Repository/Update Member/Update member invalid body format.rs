@@ -3,7 +3,7 @@
    <description></description>
    <name>Update member invalid body format</name>
    <tag></tag>
-   <elementGuidId>b662ab9f-879f-4410-b7e4-27b7996933c4</elementGuidId>
+   <elementGuidId>7ceb5986-ac9c-45b2-8374-859dd7d68660</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

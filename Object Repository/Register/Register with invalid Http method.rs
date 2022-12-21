@@ -3,7 +3,7 @@
    <description></description>
    <name>Register with invalid Http method</name>
    <tag></tag>
-   <elementGuidId>ddc444aa-21e9-47bc-9192-3b72e5af5a4d</elementGuidId>
+   <elementGuidId>4c6fc1f9-c999-45b5-b35d-d551af892955</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

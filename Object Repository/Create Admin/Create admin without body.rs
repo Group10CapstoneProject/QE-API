@@ -3,7 +3,7 @@
    <description></description>
    <name>Create admin without body</name>
    <tag></tag>
-   <elementGuidId>7cae0c90-16c5-46b4-bef9-219eb814c277</elementGuidId>
+   <elementGuidId>e28ca2c1-ee33-4c61-a347-faa533e3f875</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

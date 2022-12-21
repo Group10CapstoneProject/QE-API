@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status Invalid HTTP</name>
    <tag></tag>
-   <elementGuidId>dca3ae77-617a-4dd9-9ec5-3e57341e56f8</elementGuidId>
+   <elementGuidId>c8687520-9ef4-4ef9-b36f-e6390619e917</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

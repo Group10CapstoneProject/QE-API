@@ -3,7 +3,7 @@
    <description></description>
    <name>Login SA valid email and invalid pass</name>
    <tag></tag>
-   <elementGuidId>0760f34b-2a52-40cc-b1b0-67c75599d52c</elementGuidId>
+   <elementGuidId>89c110d8-384d-47dd-8813-56fa0746066f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

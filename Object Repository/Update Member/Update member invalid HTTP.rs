@@ -3,7 +3,7 @@
    <description></description>
    <name>Update member invalid HTTP</name>
    <tag></tag>
-   <elementGuidId>b1869858-5f09-43f3-97f1-bb7bf8675bad</elementGuidId>
+   <elementGuidId>2b726798-0f16-4f9b-bf87-4a1472bf3675</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

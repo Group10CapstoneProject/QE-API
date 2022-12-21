@@ -3,7 +3,7 @@
    <description></description>
    <name>Create admin invalid body format</name>
    <tag></tag>
-   <elementGuidId>9b9bd0f1-e1eb-4ca8-8f34-ce51d07a65da</elementGuidId>
+   <elementGuidId>7ceb5986-ac9c-45b2-8374-859dd7d68660</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

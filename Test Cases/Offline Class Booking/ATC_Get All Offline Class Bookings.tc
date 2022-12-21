@@ -4,17 +4,17 @@
    <name>ATC_Get All Offline Class Bookings</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>986efb95-dd7a-477f-8453-8ef20d608b1b</testCaseGuid>
+   <testCaseGuid>350f86ce-6ffa-4fe7-8a25-64e072b1c4d3</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>8ac7c410-36ce-4d28-908a-78f6939104f1</variableId>
+      <variableId>d3466679-0db0-4c12-894f-d0b02cc7ea09</variableId>
    </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.AdminToken</defaultValue>
       <description></description>
-      <id>8ac7c410-36ce-4d28-908a-78f6939104f1</id>
+      <id>d3466679-0db0-4c12-894f-d0b02cc7ea09</id>
       <masked>false</masked>
       <name>Admin</name>
    </variable>

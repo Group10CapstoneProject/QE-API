@@ -3,7 +3,7 @@
    <description></description>
    <name>Logout invalid url</name>
    <tag></tag>
-   <elementGuidId>de1829c4-d916-442d-95e7-bbcceab096ff</elementGuidId>
+   <elementGuidId>bb5f47a6-adde-4080-b008-638661b0755f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

@@ -3,7 +3,7 @@
    <description></description>
    <name>Get all admin invalid url</name>
    <tag></tag>
-   <elementGuidId>56dffc43-f27f-4b33-b3bd-69806c17a021</elementGuidId>
+   <elementGuidId>62c6bd05-5222-4cb9-afcc-2b9c553a0642</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

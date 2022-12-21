@@ -4,17 +4,17 @@
    <name>ATC_Delete Payment Method</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ecdb13bc-a95d-470e-9b95-ae0c2c100e7e</testCaseGuid>
+   <testCaseGuid>a07b8a2b-6fa4-4949-8f72-1145dc3878ff</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>31bdb01e-2e7e-4909-a0ab-b59779eeb568</variableId>
+      <variableId>47b042af-f855-4f36-9873-5d6a23883f08</variableId>
    </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.AdminToken</defaultValue>
       <description></description>
-      <id>31bdb01e-2e7e-4909-a0ab-b59779eeb568</id>
+      <id>47b042af-f855-4f36-9873-5d6a23883f08</id>
       <masked>false</masked>
       <name>Admin</name>
    </variable>

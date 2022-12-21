@@ -3,7 +3,7 @@
    <description></description>
    <name>Get All admin without token</name>
    <tag></tag>
-   <elementGuidId>02b90981-b768-46b9-8b5a-9814fd47232c</elementGuidId>
+   <elementGuidId>179dc05b-5e2d-41dc-90d6-8f30b787d132</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

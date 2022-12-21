@@ -3,7 +3,7 @@
    <description></description>
    <name>Get user invalid url</name>
    <tag></tag>
-   <elementGuidId>d8079047-01e4-4ff2-a89d-83887942ef0d</elementGuidId>
+   <elementGuidId>c811495f-2e8f-445c-aec0-5220e4d08727</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

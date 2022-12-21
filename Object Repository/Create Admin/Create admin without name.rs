@@ -3,7 +3,7 @@
    <description></description>
    <name>Create admin without name</name>
    <tag></tag>
-   <elementGuidId>4c7fcb8d-9f87-4fbf-a3fc-50dd2858bf73</elementGuidId>
+   <elementGuidId>24fa3abe-0bda-4a79-9b47-b37eac3b1e70</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

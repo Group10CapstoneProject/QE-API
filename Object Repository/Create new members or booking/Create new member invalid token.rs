@@ -3,7 +3,7 @@
    <description></description>
    <name>Create new member invalid token</name>
    <tag></tag>
-   <elementGuidId>4363c2e9-90cb-42df-a17b-a05e2c1a7866</elementGuidId>
+   <elementGuidId>c777b1ac-cf63-48c6-bdd4-4742c7daba66</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

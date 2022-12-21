@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status Without Body</name>
    <tag></tag>
-   <elementGuidId>b7a23794-ea19-401f-a75d-b2e6bdba30ab</elementGuidId>
+   <elementGuidId>7067192d-6d28-45fc-8ccd-430b1591ff54</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

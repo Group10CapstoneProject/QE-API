@@ -3,7 +3,7 @@
    <description></description>
    <name>Login invalid email (2 space)</name>
    <tag></tag>
-   <elementGuidId>fdd960ff-565a-4926-b6e2-f93d5eb59e0d</elementGuidId>
+   <elementGuidId>3a1adcde-4973-409a-9f7d-0a77336363d4</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

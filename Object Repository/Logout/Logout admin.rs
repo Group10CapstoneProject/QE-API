@@ -3,7 +3,7 @@
    <description></description>
    <name>Logout admin</name>
    <tag></tag>
-   <elementGuidId>1bac7a11-edf7-478e-88de-7c0298c4db4d</elementGuidId>
+   <elementGuidId>a90d001d-300e-40c9-96f1-d9915f322f8b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

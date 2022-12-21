@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status Invalid Body Format</name>
    <tag></tag>
-   <elementGuidId>a6268de0-056e-470b-a98c-73737131e602</elementGuidId>
+   <elementGuidId>fcb21156-d6dd-43d6-9ea5-88fb21e1f41d</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

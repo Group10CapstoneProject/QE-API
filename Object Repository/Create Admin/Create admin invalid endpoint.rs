@@ -3,7 +3,7 @@
    <description></description>
    <name>Create admin invalid endpoint</name>
    <tag></tag>
-   <elementGuidId>d92f2e3c-ec26-4338-a29b-903943092eca</elementGuidId>
+   <elementGuidId>4bc44914-b804-432c-b1e1-64bfd07c4612</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

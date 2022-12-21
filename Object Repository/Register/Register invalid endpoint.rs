@@ -3,7 +3,7 @@
    <description></description>
    <name>Register invalid endpoint</name>
    <tag></tag>
-   <elementGuidId>0f7563d3-2fc9-40ba-9249-e391c3140a0b</elementGuidId>
+   <elementGuidId>501e724b-5c55-4e54-8b82-bf871c37bce6</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

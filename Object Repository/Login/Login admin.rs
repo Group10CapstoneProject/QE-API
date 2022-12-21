@@ -3,7 +3,7 @@
    <description></description>
    <name>Login admin</name>
    <tag></tag>
-   <elementGuidId>cc389285-b5f9-4e17-ac84-fe27bfc6d712</elementGuidId>
+   <elementGuidId>faa25de5-630b-4881-96c4-30a94f247465</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

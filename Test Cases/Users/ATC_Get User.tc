@@ -4,17 +4,17 @@
    <name>ATC_Get User</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>23dd0b46-8eeb-49ef-bd5a-791ed163abc0</testCaseGuid>
+   <testCaseGuid>2042580c-1e28-4766-8a5d-6ae133dc039a</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>21901f9a-450c-497f-8327-85417db2adeb</variableId>
+      <variableId>9b0f8343-cebb-415c-9735-beb341a1a27e</variableId>
    </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.AdminToken</defaultValue>
       <description></description>
-      <id>21901f9a-450c-497f-8327-85417db2adeb</id>
+      <id>9b0f8343-cebb-415c-9735-beb341a1a27e</id>
       <masked>false</masked>
       <name>Admin</name>
    </variable>

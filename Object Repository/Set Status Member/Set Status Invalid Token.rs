@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status Invalid Token</name>
    <tag></tag>
-   <elementGuidId>cc600412-2bec-4cdd-9075-fe180855a719</elementGuidId>
+   <elementGuidId>316ff2d1-3521-4f51-ae5a-e12f3047558e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

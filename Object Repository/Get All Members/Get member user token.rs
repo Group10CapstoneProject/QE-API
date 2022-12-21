@@ -3,7 +3,7 @@
    <description></description>
    <name>Get member user token</name>
    <tag></tag>
-   <elementGuidId>e6bdc772-b0ba-4198-b3ad-b102714e9f6c</elementGuidId>
+   <elementGuidId>b88744d8-8295-46ae-bc87-1129c08f330f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

@@ -3,7 +3,7 @@
    <description></description>
    <name>Create admin invalid email</name>
    <tag></tag>
-   <elementGuidId>f7a7a931-e411-4b49-86af-c9dc455334df</elementGuidId>
+   <elementGuidId>278f5a42-4b17-482e-b288-dce8aeec1d99</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

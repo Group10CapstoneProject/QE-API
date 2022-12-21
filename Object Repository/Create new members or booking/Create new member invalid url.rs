@@ -3,7 +3,7 @@
    <description></description>
    <name>Create new member invalid url</name>
    <tag></tag>
-   <elementGuidId>3a58bb06-90b9-409a-9c9a-e609017204f4</elementGuidId>
+   <elementGuidId>182a296b-11c0-4f5e-96f2-70c6c5136216</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

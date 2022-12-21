@@ -3,7 +3,7 @@
    <description></description>
    <name>Set Status without Token</name>
    <tag></tag>
-   <elementGuidId>e7b049d1-f711-4ec3-81e5-011db312afe3</elementGuidId>
+   <elementGuidId>5793a265-7395-48a6-8e57-325f6f1ba28e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

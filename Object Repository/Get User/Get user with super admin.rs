@@ -3,7 +3,7 @@
    <description></description>
    <name>Get user with super admin</name>
    <tag></tag>
-   <elementGuidId>1523cced-6ca3-4f0d-99bc-b5c8f9b248ee</elementGuidId>
+   <elementGuidId>fbcd5cce-169d-48b9-81c1-7535f6e9d7de</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

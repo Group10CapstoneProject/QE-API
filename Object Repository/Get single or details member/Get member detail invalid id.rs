@@ -3,7 +3,7 @@
    <description></description>
    <name>Get member detail invalid id</name>
    <tag></tag>
-   <elementGuidId>78591aa9-52a6-4362-a6a4-360664572b75</elementGuidId>
+   <elementGuidId>6bcb0547-8404-4951-8abe-4c7d57e41372</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

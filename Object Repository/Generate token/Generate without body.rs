@@ -3,7 +3,7 @@
    <description></description>
    <name>Generate without body</name>
    <tag></tag>
-   <elementGuidId>a934b6a5-4f6c-4bd4-8db9-0aae35408293</elementGuidId>
+   <elementGuidId>a91278d6-da37-4e56-a3e9-efbb06e7532a</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

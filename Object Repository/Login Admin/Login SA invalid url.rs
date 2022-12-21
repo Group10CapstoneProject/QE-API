@@ -3,7 +3,7 @@
    <description></description>
    <name>Login SA invalid url</name>
    <tag></tag>
-   <elementGuidId>5d10630f-dd0f-4f44-85d1-f4d0d6720150</elementGuidId>
+   <elementGuidId>8b26cd94-35e6-45ee-9d9f-aa7bad9bcd71</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

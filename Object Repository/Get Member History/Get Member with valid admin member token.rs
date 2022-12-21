@@ -3,7 +3,7 @@
    <description></description>
    <name>Get Member with valid admin member token</name>
    <tag></tag>
-   <elementGuidId>0c3bc059-3bd4-4d8a-aead-2831478dbdec</elementGuidId>
+   <elementGuidId>d1ed600a-b96b-476b-8f41-2d875a15fe16</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>

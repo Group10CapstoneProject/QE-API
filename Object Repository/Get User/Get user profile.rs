@@ -3,7 +3,7 @@
    <description></description>
    <name>Get user profile</name>
    <tag></tag>
-   <elementGuidId>9fec5064-d4f9-442a-aa19-9445c0d2c7a6</elementGuidId>
+   <elementGuidId>c8dc2678-bbf6-4597-9f9b-0be174148f62</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
