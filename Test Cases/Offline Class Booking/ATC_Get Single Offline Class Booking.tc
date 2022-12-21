@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>ATC_Get Single Offline Class Booking</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>ba34f2d0-6382-47d4-a83f-2e1deaad0adc</testCaseGuid>
-</TestCaseEntity>
