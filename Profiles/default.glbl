@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://dev.rnwxyz.codes/api/v1'</initValue>
+      <name>Globalurl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzEyNjMwMDEsInJvbGUiOiJ1c2VyIiwic2Vzc2lvbl9pZCI6IjU4MDJjNDgyLTY0OWYtNDIwMS1hNzI4LTlkYTNjOTgzZDFmMiIsInVzZXJfaWQiOjc2fQ.4JdTNRZNxX1tI0KKr5auqe6kfJs-LimYIS7Ier-JqW8'</initValue>
+      <name>UserToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzMwNDQzNjksInNlc3Npb25faWQiOiIzNTVmNWU3Ni0xYTUzLTRjODgtYmI5OS04ODM0MTcyYmE2ZjIiLCJ1c2VyX2lkIjo1NX0.vDdBtwkZkSxjfXwRRDj9UGemj2mBpx2QfxjRwgFq9G4'</initValue>
+      <name>RefreshToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzEyNjI5NzgsInJvbGUiOiJhZG1pbiIsInNlc3Npb25faWQiOiI5NzE3OGM1MC0xZGE2LTQxMzQtOWQ4MC0xYjM1OGQ4NzEzNTYiLCJ1c2VyX2lkIjoxMzh9.ML1sVm3Tp1FPh7PK6XjwBcpc9hBpk-8n9N-xY988HgM'</initValue>
+      <name>AdminToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzMyNzgxNjgsInJvbGUiOiJzdXBlcmFkbWluIiwic2Vzc2lvbl9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsInVzZXJfaWQiOjF9.nQ1VkGZ-JrkbN0HDUDBchVafo-RiCdknmnUwphQjEc4'</initValue>
+      <name>SuperAdminToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5'</initValue>
+      <name>random</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'89'</initValue>
+      <name>ID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>RefreshTokenAdmin</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

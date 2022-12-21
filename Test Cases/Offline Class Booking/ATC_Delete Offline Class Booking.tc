@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC_Delete Offline Class Booking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0d620ee-b9b9-40e8-b896-fafd96a159ed</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69a7b82a-3cdc-4a1b-a9ca-e3501ca4d012</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.AdminToken</defaultValue>
+      <description></description>
+      <id>69a7b82a-3cdc-4a1b-a9ca-e3501ca4d012</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+</TestCaseEntity>

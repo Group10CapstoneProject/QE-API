@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC_Delete Payment Method</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fd8e35d-3cc1-4366-b265-d118c3380291</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3b329cf-1490-407a-ba0f-3ac901a9ad39</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.AdminToken</defaultValue>
+      <description></description>
+      <id>c3b329cf-1490-407a-ba0f-3ac901a9ad39</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+</TestCaseEntity>

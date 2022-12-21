@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC_Get User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e2ef2c4-e2d2-4c3b-a34c-09ab53c99d1a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26dbfd1f-7927-4667-a253-754d3ce763af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.AdminToken</defaultValue>
+      <description></description>
+      <id>26dbfd1f-7927-4667-a253-754d3ce763af</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+</TestCaseEntity>
